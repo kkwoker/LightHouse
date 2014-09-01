@@ -1,0 +1,115 @@
+body{
+
+	/*background-color: rgb(233, 198, 137);*/
+}
+
+
+h1{
+	text-align: center;
+	color: rgb(61, 61, 53);
+	font-family: 'Lato',  sans-serif;
+}
+h2{
+	text-align: center;
+	color: rgb(61, 61, 53);
+	font-family: 'Lato',  sans-serif;
+}
+
+h3{
+	margin-left: 25em;
+
+}
+p{
+
+	color:rgb(61, 61, 53);
+	text-align: center;
+}
+
+#slice{
+	margin-left: 150px;
+	height: 200px;
+	width: 200px;
+}
+#stew{
+
+	
+	height: 200px;
+	width: 220px;
+}
+#stew2{
+
+	margin-left: auto;
+	height: 200px;
+	width: 250px;
+}
+
+img{
+
+	border: solid 2px orange;
+	border-radius:50px;
+	margin: 10px;
+	box-shadow: 10px 10px 5px #888888;
+}
+img:hover{
+	border-color:Red;
+}
+div{
+
+	text-align: center;
+
+	margin-right: 25px;
+	font-size: 11;
+	float: left;
+	height:15px;
+	width:45px;
+	background-color:yellow;
+	border-radius: 10;
+	border-style: solid;
+	border-width: 1.5;
+	border-color: rgb(238, 181, 81);
+
+}
+div:hover{
+	background-color: rgb(0,255,20);
+	cursor: pointer;
+}
+
+
+li{
+	
+	margin-left: 30em;
+
+
+}
+ul li{
+	list-style: none;
+}
+#hide-images{
+	width: 100px;
+}
+
+
+
+#clear-ingredients{
+	background-color: rgb(0,255,20);
+	margin-left: 50em;
+	margin-right:30em;
+	float:right;
+}
+#clear-directions{
+	background-color: rgb(0,255,20);
+	margin-right: 30em;
+	float:right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
